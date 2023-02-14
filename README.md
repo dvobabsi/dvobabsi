@@ -3,6 +3,19 @@
 - 👯 I’m looking to collaborate on some interesting projects/startups
 
 ## My Skills
+### Languages and Frameworks:
+- HTML
+- CSS
+- SCSS/SASS
+- JS
+- 
+### Utils:
+- Git
+- npm
+
+### Libraries:
+- Bootstrap
+- jQuary
 
 
 <!--
