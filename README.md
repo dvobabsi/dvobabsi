@@ -16,7 +16,7 @@
   <a href="mailto:dvobabsi@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/vladyaslav-donets">
+  <a href="https://www.linkedin.com/in/donets-vladyslav">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dvobabsi">
